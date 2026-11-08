@@ -1,0 +1,5 @@
+# Baseline profile: the app's own code is compiled ahead of time, so the first screens, the reader and the settings start
+# without the interpreter. The app is small (a few thousand methods), so the whole package is listed: H = hot, S = used at
+# startup, P = used after startup. Libraries (Compose, Wear, Room, WorkManager) bring their own profiles.
+Lio/github/cadenh/wristrature/**;
+HSPLio/github/cadenh/wristrature/**;->**(**)**

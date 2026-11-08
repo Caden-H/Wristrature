@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wristrature</string>
+    <string name="tile_label">Now reading</string>
+    <string name="complication_ring_label">Reading progress</string>
+    <string name="complication_text_label">Reading percent</string>
+</resources>
